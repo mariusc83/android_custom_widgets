@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+  <item name="selectedDayMonthYear" type="id"></item>  
+  <item name="prevMonth" type="id"></item>  
+  <item name="currentMonth" type="id"></item>  
+  <item name="nextMonth" type="id"></item>  
+  <item name="calendarHeader" type="id"></item>  
+  <item name="calendar" type="id"></item>  
+  <item name="dayCell" type="id"></item>  
+</resources>

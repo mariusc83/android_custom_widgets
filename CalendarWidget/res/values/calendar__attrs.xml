@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="calendarStyles">
+        <attr name="calendarSelectedDayMarker" format="reference" />
+        <attr name="calendarSelectedDayColor" format="color" />
+        <attr name="calendarCurrentDayMarker" format="reference" />
+        <attr name="calendarHasDataMarker" format="reference" />
+        <attr name="calendarSelectableCellColor" format="color" />
+        <attr name="calendarWeekendCellColor" format="color" />
+        <attr name="calendarUnselectableCellColor" format="color" />
+        <attr name="calendarHeaderCellColor" format="color" />
+        <attr name="calendarCellBackground" format="reference" />
+        <attr name="calendarPrevButtonBackground" format="reference" />
+        <attr name="calendarNextButtonBackground" format="reference" />
+        <attr name="calendarCurrentDateButtonBackground" format="reference" />
+        <attr name="calendarHeaderTextAppearance" format="reference" />
+    </declare-styleable>
+
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <style name="Widget.Calendar.Theme" parent="@android:style/Theme">
+        <item name="calendarSelectedDayColor">#FF0094FF</item>
+        <item name="calendarSelectedDayMarker">@drawable/calendar_selected_cell_button_selector</item>
+        <item name="calendarCurrentDayMarker">@drawable/calendar_current_day_marker</item>
+        <item name="calendarHasDataMarker">@drawable/calendar_current_selected_day_marker</item>
+        <item name="calendarSelectableCellColor">#000000</item>
+        <item name="calendarWeekendCellColor">#FF0000</item>
+        <item name="calendarUnselectableCellColor">#CCCCCC</item>
+        <item name="calendarHeaderCellColor">#FFFFFF</item>
+        <item name="calendarCellBackground">@drawable/calendar_button_selector</item>
+        <item name="calendarPrevButtonBackground">@drawable/calendar_left_arrow_selector</item>
+        <item name="calendarNextButtonBackground">@drawable/calendar_right_arrow_selector</item>
+        <item name="calendarCurrentDateButtonBackground">@drawable/calendar_bar</item>
+        <item name="calendarHeaderTextAppearance">@style/TextAppearance.CalendarHeader</item>
+    </style>
+
+</resources>
